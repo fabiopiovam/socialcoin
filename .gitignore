@@ -64,7 +64,6 @@ target/
 
 venv
 *.pyc
-static
 
 # Media Files
 media/*
