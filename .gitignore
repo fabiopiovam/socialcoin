@@ -47,6 +47,12 @@ coverage.xml
 *.mo
 *.pot
 
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+.settings
+
 # Django stuff:
 *.log
 
@@ -55,3 +61,13 @@ docs/_build/
 
 # PyBuilder
 target/
+
+venv
+*.pyc
+static
+
+# Media Files
+media/*
+!media/.empty
+static/*
+!static/.empty
