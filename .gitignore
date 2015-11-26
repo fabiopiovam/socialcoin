@@ -71,3 +71,7 @@ media/*
 !media/.empty
 static/*
 !static/.empty
+
+# Others
+socialcoin/settings_local.py
+socialcoin/settings_production.py
